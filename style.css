@@ -1,0 +1,31 @@
+ul{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul a{
+    color: blueviolet;
+    text-decoration: none;
+}
+
+li{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: x-large;
+}
+
+h2, h3{
+    color: blue;
+}
+
+p, small{
+    color: blueviolet;
+}
+
+footer{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
