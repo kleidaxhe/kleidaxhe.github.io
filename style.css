@@ -16,8 +16,22 @@ li{
     font-size: x-large;
 }
 
-h2, h3{
+h2, h3, h4{
     color: blue;
+}
+
+h2, h4{
+    text-align: center;
+}
+
+main{
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.intro{
+    margin: auto;
+    display: flex;
 }
 
 p, small{
@@ -28,4 +42,11 @@ footer{
     margin: 0;
     padding: 0;
     text-align: center;
+}
+
+.pic{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    display: flex;
 }
